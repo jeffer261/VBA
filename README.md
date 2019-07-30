@@ -1,4 +1,4 @@
-**Comandos VBA para o dia a dia**
+**Comandos VBA**
 
 - [Estrutura] (https://github.com/jeffer261/VBA/blob/master/COMANDOS/Estrutura.vba)
 
