@@ -14,5 +14,3 @@
 
 - [Formatação de Bordas] (https://github.com/jeffer261/VBA/blob/master/COMANDOS/Formatacao_Bordas.vba)
 
-- [Conexão SQL SERVER] (https://github.com/jeffer261/VBA/blob/master/COMANDOS/Conexao_SQL_SERVER.vba)
-
